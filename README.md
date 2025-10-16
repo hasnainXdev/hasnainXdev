@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hasnain 👋<br><br>I'm a full-stack web developer and AI enthusiast from Pakistan 🇵🇰.  <br>I build modern web apps using Next.js, TailwindCSS, and FastAPI and more, and I'm currently exploring **Agentic AI** and tools like **Dapr**.<br><br>- 🚀 Working on AI SaaS tools like PingGenius  <br>- 🧠 Learning Python, Agent SDKs, and building digital products  <br>- 🛠️ Tech Stack: Next.js, React, TailwindCSS, Node.js, MongoDB, FastAPI  etc<br>- 📫 Connect with me on LinkedIn: https://www.linkedin.com/ or follow on X(formerly Twitter): https://twitter.com/<br><br>Let's build something amazing!
+Hi, I'm Hasnain 👋<br><br>I'm a full-stack web developer and AI enthusiast from Pakistan 🇵🇰.  <br>I build modern web apps using Next.js, TailwindCSS, and FastAPI and more, and I'm currently exploring **Agentic AI** and tools like **Dapr**.<br><br>- 🚀 Working on AI SaaS tools like PingGenius  <br>- 🧠 Learning Python, Agent SDKs, and building digital products  <br>- 🛠️ Tech Stack: Next.js, React, TailwindCSS, Node.js, MongoDB, FastAPI  etc
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I build things that work and some that think.<br><br>🔭 Currently crafting cool projects behind the scenes<br>👯 Open to collaborating on meaningful open-source work<br>🤝 Always interested in learning from people who think in systems<br>🌱 Currently learning how to design software that scales, not just runs<br>💬 Ask me about coding from quick hacks to long-term architecture<br>⚡ Fun fact: Anyone can write code. Only a few design systems that survive production.
+👋 Hello, I build things that work and some that think😏.<br><br>🔭 Currently crafting cool projects behind the scenes<br>👯 Open to collaborating on meaningful open-source work<br>🤝 Always interested in learning from people who think in systems<br>🌱 Currently learning how to design software that scales, not just runs<br>💬 Ask me about coding from quick hacks to long-term architecture<br>⚡ Fun fact: Anyone can write code. Only a few design systems that survive production.
 
 
 ## 🌐 Socials:
